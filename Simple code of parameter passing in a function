@@ -1,0 +1,12 @@
+fun main(){
+    val border="%"
+    printBorder(border)
+    println("HBD Jhanssi")
+    printBorder(border)
+}
+fun printBorder(border:String) {
+    repeat(10){
+    print(border)
+    }
+    println()
+}
