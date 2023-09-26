@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @vineethasumesh
-- 👀 I’m interested in android development
+- 👀 I’m interested in android development,and full stack web development
 - 🌱 I’m currently learning kotlin,web development,cloud computing
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [...](https://knowmeglobal.com/Vineetha)
