@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @vineethasumesh
--    I am a Software developer.
+-   Master of Computer Science from NSS College under University of Calicut,India.
+-   Master of Software design with cloud native computing from Technological University of Shannon,Ireland.
+-   I am a Software developer.
 - 👀 I’m interested in android development, and full stack web development.
 - 🌱 I’m currently learning kotlin, web development, cloud computing
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me [...](https://knowmeglobal.com/Vineetha)
+- 📫 reach me at vineethasumesh.vs@gmail.com
 
 <!---
 vineethasumesh/vineethasumesh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
